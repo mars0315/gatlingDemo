@@ -1,0 +1,10 @@
+{
+  "simulation": "io.gatling.highcharts.TestDemoSimulation",
+  "simulationId": "testdemosimulation",
+  "start": 1618933699489,
+  "description": "",
+  "scenarios": ["TestDemoSimulation"],
+  "assertions": [
+
+  ]
+}
